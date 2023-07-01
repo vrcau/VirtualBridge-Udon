@@ -1,0 +1,19 @@
+{
+  "name": "com.vrcau.virtual-bridge-udon",
+  "displayName": "Virtual Bridge Udon",
+  "version": "0.0.1",
+  "description": "Connect the virtual world with the outside.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.8"
+  },
+  "author": {
+    "name": "VRChat Aerospace University",
+    "email": "lipww1234@foxmail.com",
+    "url": "https://yuxiaviation.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\ProjectEcho\\virtual-bridge-udon\\Packages\\com.vrcau.virtual-bridge-udon",
+  "dependencies": {}
+}
